@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "JavaScript",
+        "ano": 1995,
+        "descricao": "JavaScript é uma linguagem de programação baseada em scripts",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "ano": 1991,
+        "descricao": "Python é uma linguagem de programação para ciência de dados e IA",
+        "link": "https://docs.python.org/pt-br/3.14/"
+    },
+    {
+        "nome": "Java",
+        "ano": 1995,
+        "descricao": "Java é uma linguagem de programação orientada a objetos, popular para aplicações corporativas.",
+        "link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "nome": "C#",
+        "ano": 2000,
+        "descricao": "C# (C Sharp) é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+        "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "Go",
+        "ano": 2009,
+        "descricao": "Go (ou Golang) é uma linguagem de programação compilada e concorrente, criada pelo Google.",
+        "link": "https://go.dev/doc/"
+    },
+    {
+        "nome": "TypeScript",
+        "ano": 2012,
+        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+        "link": "https://www.typescriptlang.org/docs/"
+    }
+]
